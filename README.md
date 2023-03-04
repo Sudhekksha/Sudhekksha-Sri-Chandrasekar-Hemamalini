@@ -1,14 +1,14 @@
 
-- 🔭 I’m currently working on **Machine learning**
+<h1 align="center">Hi 👋, I'm Sudhekksha Sri</h1>
+- 🔭 I’m currently working on **Customer Personality Analysis using Machine learning clustering**
 
-- 🌱 I’m currently learning **Data Science from Coventry University, United Kingdom**
+- 🌱 I’m currently learning **Clustering and classification in Machine Learning**
 
-- Innovative Programmer striving to make the world a more unified and connected place. 
+- 👯 I’m looking to collaborate on **Data Science projects**
 
-- A creative thinker, adept in software development and working with various data structures. 
+- 💬 Ask me about **Anything Data Science related questions, I'll be happy to help.**
 
-- A deep desire to demonstrate my expertise in analytical tools, machine learning, statistics, and computing methodologies in a professional setting.
-
+- 📫 How to reach me **connect through LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
